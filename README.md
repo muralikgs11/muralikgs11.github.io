@@ -1,4 +1,4 @@
-# Murali Sethuraman
+# About me
 
 ![](murali.jpg)
 
